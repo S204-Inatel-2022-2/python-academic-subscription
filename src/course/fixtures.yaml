@@ -1,0 +1,43 @@
+- model: course.Course
+  fields:
+    course_name: Engenharia de Software
+    course_id: afded52a-c26c-4e82-8bcd-d906df2e7263
+    course_slug: ges
+    period: 10
+    start: 2019-01-01T00:00:00-03:00
+    coordinator: Guilherme Baruque
+    max_students_per_period: 50
+    accept_new_inscriptions: true
+
+- model: course.Course
+  fields:
+    course_name: Engenharia de Computação
+    course_id: c0c3c77b-b259-4ee1-9098-45a42a0bc4f8
+    course_slug: gec
+    period: 10
+    start: 2010-01-01T00:00:00-03:00
+    coordinator: Guilherme Baruque
+    max_students_per_period: 50
+    accept_new_inscriptions: true
+
+- model: course.Course
+  fields:
+    course_name: Engenharia de Produção
+    course_id: c03b3a25-d8e3-483d-99e3-1beaa7d85dc5
+    course_slug: gep
+    period: 10
+    start: 2015-01-01T00:00:00-03:00
+    coordinator: Breno Tavares
+    max_students_per_period: 50
+    accept_new_inscriptions: true
+
+- model: course.Course
+  fields:
+    course_name: Engenharia Elétrica
+    course_id: 303c37a6-cd1f-4745-ae7f-b2fa50fb986e
+    course_slug: gee
+    period: 10
+    start: 1990-01-01T00:00:00-03:00
+    coordinator: Alexandre Baratella
+    max_students_per_period: 40
+    accept_new_inscriptions: false

@@ -16,12 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from public import viewsets
+
+import course.views
 
 router = routers.SimpleRouter(trailing_slash=False)
-router.register(r'public/course', viewsets.CourseViewSet)
+router.register(r'public/course', course.views.PublicCourseViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include(router.urls))
+    path('api/v1/', include(router.urls))
 ]

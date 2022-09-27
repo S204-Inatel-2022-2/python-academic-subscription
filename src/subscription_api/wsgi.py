@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'subscription_api.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'src.subscription_api.settings')
 
 application = get_wsgi_application()

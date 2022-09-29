@@ -1,0 +1,553 @@
+- model: subject.Subject
+  fields:
+    subject_id: fd0e26dc-e0d8-4142-b639-da3d6b47df91
+    subject_name: Atividade Complementar 1
+    subject_slug: AC1
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 6ef69dd4-5fbc-4974-ab98-07f11ab3fe2a
+    subject_name: Introdução a Engenharia
+    subject_slug: C201
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: 32fc6dd6-d8ef-42a3-913b-c732c07a7155
+    subject_name: Algoritmos e Estruturas de Dados I
+    subject_slug: C202
+    total_hours: 120
+    credits: 6
+
+- model: subject.Subject
+  fields:
+    subject_id: 61f8d3dc-edd6-4013-9b27-f14389898407
+    subject_name: Circuitos Elétricos I
+    subject_slug: E201
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 4e0f385d-8363-4fa7-9151-fd1c60765b71
+    subject_name: Álgebra e Geometria Analítica
+    subject_slug: M002
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: bb3662c0-aab4-4a5d-a04a-4f0ad66d4edd
+    subject_name: Atividade Complementar 2
+    subject_slug: AC2
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 52d7219e-01cf-4aef-a3f5-cb29e6e5a563
+    subject_name: Desenho
+    subject_slug: E110
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: e08ea95f-40aa-4a94-a852-56ce6ae924ef
+    subject_name: Física I
+    subject_slug: F201
+    total_hours: 100
+    credits: 5
+
+- model: subject.Subject
+  fields:
+    subject_id: c5715784-d9b7-456f-94ec-793674438d92
+    subject_name: Cálculo 1
+    subject_slug: M003
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 211a5211-a5df-4db0-8836-3fe47cca737c
+    subject_name: Matemática Discreta
+    subject_slug: M020
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 4e8b3978-743f-4b5d-b07c-c6e561bad5b7
+    subject_name: Ativade Complementar 3
+    subject_slug: AC3
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: d93904b1-f427-4d58-9940-be55e8276c0e
+    subject_name: Algoritmos e Estruturas de Dados III
+    subject_slug: C204
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 96a9614e-d6a2-4038-a272-17c20b301c91
+    subject_name: Eletrônica Digital I
+    subject_slug: E207
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 2219ee13-7267-481b-83a6-e78136c2bc36
+    subject_name: Física II
+    subject_slug: F202
+    total_hours: 100
+    credits: 5
+
+- model: subject.Subject
+  fields:
+    subject_id: 4720a126-6f29-4c40-aa5c-177998896814
+    subject_name: Cálculo II
+    subject_slug: M004
+    total_hours: 100
+    credits: 5
+
+- model: subject.Subject
+  fields:
+    subject_id: 4f63fe93-5831-4703-a6db-f8751adae03a
+    subject_name: Atividade Complementar 4
+    subject_slug: AC4
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: f44bec2b-0520-4abc-8850-493feecfc71c
+    subject_name: Linguagens de Programação e Compiladores
+    subject_slug: C005
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 23d8ce79-f2ba-4c97-949f-35f55da79e9f
+    subject_name: Programação Orientada a Objetos
+    subject_slug: C206
+    total_hours: 120
+    credits: 6
+
+- model: subject.Subject
+  fields:
+    subject_id: 4fc4b9f2-61ad-4a87-855c-5c41e3b0209f
+    subject_name:  Banco de Dados
+    subject_slug: C207
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 77eab30d-3d8a-4829-80a3-abe88773f92d
+    subject_name:  Eletrônica Digital II
+    subject_slug: E208
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 89476e9f-3fd4-4278-94b8-adbba7f0199b
+    subject_name:  Cálculo III
+    subject_slug: M005
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 2d453cab-f81f-4859-b26a-38b8c0294038
+    subject_name:  Atividade Complementar 5
+    subject_slug: AC5
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: cd979149-e6c9-4b7f-bd75-c91be6ae5333
+    subject_name:  Sistemas Microcontrolados e Microprocessados
+    subject_slug: E209
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 4b7eb4ff-4e3a-45e2-8fb7-02a5b3f4a138
+    subject_name:  Gestão de Projetos I
+    subject_slug: G304
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: 6c9fcbe1-c262-4f1c-b477-d64c6c36309e
+    subject_name: Administração
+    subject_slug: H001
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 1408c9fb-3b17-4e4a-9260-00b6fa6dc110
+    subject_name: Economia
+    subject_slug: H002
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 3a6a85e6-d319-4990-a460-b98d9ea2d4a2
+    subject_name: Probabilidade
+    subject_slug: M019
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 576af43a-fe68-49d0-a6a9-67f791d5cda1
+    subject_name: Paradigmas da Programação
+    subject_slug: S201
+    total_hours: 120
+    credits: 6
+
+- model: subject.Subject
+  fields:
+    subject_id: 04277724-9620-49e3-bd58-0142f47f49e2
+    subject_name: Banco de Dados II
+    subject_slug: S202
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 10d44839-6ebc-4640-83c8-80ed3d657e4d
+    subject_name: Atividade Complementar 6
+    subject_slug: AC6
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 5c6e1fb0-11bf-4e5d-b6d3-f5d916db7fb7
+    subject_name: Arquiteturas de Computadores
+    subject_slug: C208
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: a378d243-8552-4d75-9cd0-206b86f91a1c
+    subject_name:  Computação Gráfica e Multimídia
+    subject_slug: C209
+    total_hours: 120
+    credits: 6
+
+- model: subject.Subject
+  fields:
+    subject_id: 769c1d04-8daf-4e58-a9cf-34695f5ea294
+    subject_name:  Cálculo Numérico
+    subject_slug: M106
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: cb0d81c7-5614-4624-a72b-15886a33ed4b
+    subject_name: Estatística
+    subject_slug: M109
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: 8e4d680d-7fbc-4f11-b863-88f7ea1bdcef
+    subject_name: Otimização I
+    subject_slug: M210
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 19b5c45a-989f-4eb9-b9de-7c97d7c43d5d
+    subject_name: Arquitetura e desenho de Software
+    subject_slug: S203
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: ff04a768-06f7-4f08-9a41-a93aa525733f
+    subject_name: Qualidade de Software
+    subject_slug: S206
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: f3b631ca-76ab-4a59-abb3-7bc7f0c003cb
+    subject_name: Atividade Complementar 7
+    subject_slug: AC7
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 9f2ddeb1-c7c0-49a8-a1bd-07a2b9f28d4e
+    subject_name: Sistemas Operacionais
+    subject_slug: C012
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 33c7ad2a-c162-469e-91f3-3ffaffb8d739
+    subject_name: Análise de Dados
+    subject_slug: C11
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: f6dab96e-f1c7-4eae-85ce-026ebbd8fd11
+    subject_name: Inteligência Computacional
+    subject_slug: C210
+    total_hours: 80
+    credits: 4
+
+
+- model: subject.Subject
+  fields:
+    subject_id: 358fb581-0fc2-47b1-9054-a3dc484ff46b
+    subject_name: Engenharia de Produto de Software
+    subject_slug: S204
+    total_hours: 80
+    credits: 4
+
+
+- model: subject.Subject
+  fields:
+    subject_id: 7b980040-8963-48a3-a676-6da69770213f
+    subject_name: Disciplina Eletiva I
+    subject_slug: S308
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 00e358ca-8adf-4b95-a06e-67173707b9dc
+    subject_name: Redes de Computadores
+    subject_slug: T202
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 00cec540-9a5f-444f-b7e1-389cd2e47416
+    subject_name: Atividade Complementar 8
+    subject_slug: AC8
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 11340dd9-d030-4e00-8400-89fc096a4e2c
+    subject_name: Engenharia de Software
+    subject_slug: C214
+    total_hours: 120
+    credits: 6
+
+- model: subject.Subject
+  fields:
+    subject_id: 7de172cd-1c22-41fb-90d8-d76e79eb00e7
+    subject_name: Otimização II
+    subject_slug: P108
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: aac94303-bd9f-49f3-9df7-876830d150e1
+    subject_name: Interface Homem-Máquina
+    subject_slug: S205
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 3adf3a15-5e2f-4a51-ade6-1f9a3aab1891
+    subject_name: Disciplina Eletiva II
+    subject_slug: S309
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 4a151ffa-151b-492b-b915-778d7e10d547
+    subject_name: Gerência,QoS e Segurança em Redes
+    subject_slug: T106
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: b02fb50a-3b17-4570-af9c-e618a857cd56
+    subject_name: Tópicos Especiais I
+    subject_slug: C317
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 18ce76ab-f2d7-46b9-989b-5d9fc3fb9bab
+    subject_name: Estágio Supervisionado
+    subject_slug: EST1
+    total_hours: 160
+    credits: 8
+
+- model: subject.Subject
+  fields:
+    subject_id: 6d30acd1-6029-4c21-bf63-c2242e3527fb
+    subject_name: Humanidades, Ciências Sociais e Cidadania
+    subject_slug: H003
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: a4ba0dd9-8f64-4533-bd19-da293ffa11b3
+    subject_name: Ciências do Ambiente
+    subject_slug: H004
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: acf59ae5-8ed4-442d-93fd-2ef96663fa22
+    subject_name: Sistemas Distribuídos
+    subject_slug: C216
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: a3393cf1-36d2-42d5-8adb-ded0910932bc
+    subject_name: Tópicos Especiais II
+    subject_slug: C318
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 08b281a2-8892-4d57-8146-1340436d39dc
+    subject_name: Trabalho de Conclusão de Curso I
+    subject_slug: TCC1
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 0e396161-d692-4a44-b153-016e563c4c3f
+    subject_name: Circuitos Elétricos II
+    subject_slug: E202
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 1608e287-1a7e-4941-a6f7-b6d20a50cdf5
+    subject_name: Eletrônica Analógica I
+    subject_slug: E204
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 9960746b-d36e-40f8-afcd-08b4ec34dcb7
+    subject_name: Química e Ciências dos Materiais
+    subject_slug: Q201
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: f8cbe13d-4503-46b8-bfa4-5a8d287c654d
+    subject_name: Eletrônica Analógica II
+    subject_slug: E205
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: e1421a20-4d16-4782-b52a-e6572418acf3
+    subject_name: Mecânica dos Sólidos e Resistência dos Materiais
+    subject_slug: F005
+    total_hours: 40
+    credits: 2
+
+- model: subject.Subject
+  fields:
+    subject_id: 4e0a5869-e549-4a14-9edb-74e3d705282a
+    subject_name: Eletrônica Analógica III
+    subject_slug: E206
+    total_hours: 60
+    credits: 3
+
+- model: subject.Subject
+  fields:
+    subject_id: 27d75c81-0697-4799-920a-cded05e50f53
+    subject_name: Sinais e Sistemas
+    subject_slug: M007
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: ac818e7c-6abc-4389-a7e5-0b16d76c2367
+    subject_name: Probabilidade e Processos Estocásticos
+    subject_slug: M008
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 4ee2ca1c-2edd-47fb-9707-e5be428af3c6
+    subject_name: Física IV
+    subject_slug: F004
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: 2460b24f-432f-4dab-9ff0-b29896a27694
+    subject_name: Probabilidade e Processos Estocásticos
+    subject_slug: M008
+    total_hours: 80
+    credits: 4
+
+- model: subject.Subject
+  fields:
+    subject_id: 3f9bdc8b-285f-459b-8717-ecf700a52053
+    subject_name: Conceitos e Tecnologias para Dispositivos Conectados
+    subject_slug: C115
+    total_hours: 20
+    credits: 1
+
+- model: subject.Subject
+  fields:
+    subject_id: 1d09fed5-7c4c-474f-8bca-9f722791787a
+    subject_name: Sistemas Embarcados
+    subject_slug: C213
+    total_hours: 80
+    credits: 4

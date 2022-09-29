@@ -142,3 +142,18 @@ class UpdateSingleCourseTest(TestCase):
             content_type='application/json'
         )
         self.assertEqual(response.status_code, status.HTTP_405_METHOD_NOT_ALLOWED)
+
+
+class DeleteSingleCourseTest(TestCase):
+    """ Test module for deleting an existing course """
+
+    def setUp(self):
+        self.ges = Course.objects.create(
+            course_id='afded52a-c26c-4e82-8bcd-d906df2e7263', course_name='Engenharia de Software', course_slug='ges',
+            period=10, start='2019-01-01', coordinator='Guilherme Baruque', max_students_per_period=50,
+            accept_new_inscriptions=True
+        )
+
+    def test_not_allow_to_delete_course(self):
+        response = client.delete(reverse('public-course-detail', kwargs={'course_id': self.ges.course_id}))
+        self.assertEqual(response.status_code, status.HTTP_405_METHOD_NOT_ALLOWED)

@@ -1,0 +1,20 @@
+language: python
+python:
+  - "3.10"
+
+stages:
+  - Test
+
+before_install:
+  - pip install poetry
+
+install:
+  - poetry install -v
+  - poetry --version
+  - poetry config settings.virtualenvs.in-project true
+
+jobs:
+  include:
+    - name: tests
+      script:
+        python ./src/manage.py test

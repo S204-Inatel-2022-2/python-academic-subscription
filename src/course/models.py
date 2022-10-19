@@ -3,6 +3,7 @@ from uuid import uuid4
 
 
 class Course(models.Model):
+    objects = models.Manager()
     course_id = models.UUIDField(primary_key=True, default=uuid4, editable=False)
     course_name = models.CharField(max_length=50)
     course_slug = models.CharField(max_length=50)

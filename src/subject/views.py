@@ -6,3 +6,4 @@ from subject import serializers
 class PublicSubjectViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Subject.objects.all()
     serializer_class = serializers.SubjectSerializer
+    lookup_field = 'subject_id'
